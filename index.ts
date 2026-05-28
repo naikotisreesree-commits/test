@@ -4,3 +4,5 @@ console.log("Installed cors");
 
 
 console.log("Installed express types");
+
+console.log("Test");
